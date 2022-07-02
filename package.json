@@ -1,0 +1,22 @@
+{
+  "name": "mersailor.github.io",
+  "version": "1.0.0",
+  "description": "Personal portfolio website.",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mersailor/mersailor.github.io.git"
+  },
+  "author": "Sibylle Eid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mersailor/mersailor.github.io/issues"
+  },
+  "homepage": "https://github.com/mersailor/mersailor.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
