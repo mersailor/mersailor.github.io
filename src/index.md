@@ -1,4 +1,8 @@
-# Welcome to my website
+---
+title: Welcome to my portfolio
+---
+
+# {{ title }}
 
 This site is going to get more interesting, soon.
 
