@@ -1,5 +1,6 @@
 ---
 title: Welcome to my portfolio
+layout: base.njk
 ---
 
 # {{ title }}
